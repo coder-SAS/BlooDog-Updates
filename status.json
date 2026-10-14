@@ -1,12 +1,12 @@
 {
-  "schema": 1,
-  "version": 0,
-  "minimum": 0,
-  "url": "",
-  "sha256": "",
-  "size": 0,
-  "notes": "Henuz yayin yok. publish_release.ps1 calistirildiginda gercek degerlerle dolar.",
-  "unsafe": false,
-  "notice": "",
-  "published": ""
+    "schema":  1,
+    "version":  122,
+    "minimum":  121,
+    "url":  "https://github.com/coder-SAS/BlooDog-Updates/releases/download/v122/BlooDog.exe",
+    "sha256":  "e714cdd3902b98464ca6c3162e8a28663aa05e8427c0686ed12c0dc09792149b",
+    "size":  2189312,
+    "notes":  "ilk yayin",
+    "unsafe":  false,
+    "notice":  "",
+    "published":  "2026-10-14T16:48:45Z"
 }
