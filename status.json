@@ -1,12 +1,12 @@
-{
+﻿{
     "schema":  1,
-    "version":  122,
+    "version":  123,
     "minimum":  121,
-    "url":  "https://github.com/coder-SAS/BlooDog-Updates/releases/download/v122/BlooDog.exe",
-    "sha256":  "e714cdd3902b98464ca6c3162e8a28663aa05e8427c0686ed12c0dc09792149b",
+    "url":  "https://github.com/coder-SAS/BlooDog-Updates/releases/download/v123/BlooDog.exe",
+    "sha256":  "2c3882bb13837a92567bc934f6acee3c9dcf379aff18ae0597742b1a99df9f2b",
     "size":  2189312,
-    "notes":  "ilk yayin",
+    "notes":  "surum okumasi duzeltildi",
     "unsafe":  false,
     "notice":  "",
-    "published":  "2026-10-14T16:48:45Z"
+    "published":  "2026-10-14T17:00:50Z"
 }
